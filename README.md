@@ -1,5 +1,6 @@
 # case_tripleten
 TripleTen Techincal Editor for Data Analytics case.
+
 https://coding-bootcamps.notion.site/Test-task-for-technical-editors-Brazil-04cd32e5af644691919b68e210904cbc
 
 ### Link to the Google Docs text task:
